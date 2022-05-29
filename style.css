@@ -1,0 +1,25 @@
+H1{
+    margin:50px;
+    text-align: center;
+    font-size: 40px;
+    color:#89CFF0;
+
+}
+.firsttext{
+    margin: 20px;
+    font-size: 26px;
+    color:black;
+    
+}
+
+.tippy-box[data-theme~='lamia']{
+    color:black;
+    font-size: 18px;
+    height: auto;
+    width: 200px;
+    border: 1px solid black;
+    background-color: white;
+}
+.hl p{
+    font-size: 18px;
+}
